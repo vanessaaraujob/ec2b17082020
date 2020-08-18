@@ -1,0 +1,6 @@
+-Javascript para o back end
+Detalhes da viagem, do veículo, delete e update de veículos, cadastro de novos usuários.
+-Para desenvolver o aplicativo mobile e web será react native
+Mapa para o usuário se localizar, tela de cadastro e calculo de valor e de KM limite.
+-Controle de versão:
+Git.

@@ -1,0 +1,12 @@
+Veiculo:
+Modelo do carro
+Abastecimento
+Direção Automática
+Acentos Disponiveis
+Viagem:
+Forma de cobrar a viagem
+Limite de KM
+Passageiro:
+Forma de solicitar a viagem
+Pagamento
+

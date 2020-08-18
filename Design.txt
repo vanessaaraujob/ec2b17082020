@@ -1,0 +1,12 @@
+Empresa:
+ - Controle de viagens como data, local, valor e modelos de carro solicitado por cada usuário.
+-Informações pessoais do usuário e informação de ida e volta, tempo e KM percorrida.
+Veiculo:
+- Controle de uma viagem por vez
+- Controle do limite de KM
+- Qualquer problema pousar e liberar as portas
+Usuário:
+- Informa seu ponto de partida e chegada
+- Pagamento online
+
+

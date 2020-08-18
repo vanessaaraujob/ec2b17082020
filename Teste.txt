@@ -1,0 +1,2 @@
+A cada atualização do código, o desenvolvedor deve testar com interface de usuário.
+Fazer testes como: cadastro de passageiro, solicitar viagem, conferir valor e km limite, listagem dos veículos.
